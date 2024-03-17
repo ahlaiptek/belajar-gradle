@@ -12,4 +12,6 @@ class App {
 
 fun main() {
     println(App().greeting)
+    val contact = Contact("Ahla", 19, true)
+    contact.print()
 }
