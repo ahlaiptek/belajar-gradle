@@ -1,0 +1,1 @@
+Fungsi dari direktori ini untuk menyimpan seperti gambar, json, dsb.
